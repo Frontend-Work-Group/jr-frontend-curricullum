@@ -28,7 +28,7 @@
 - Using React Query and React Hook Form: Learn how to use React Query to handle data fetching and caching in a React project. Learn how to use React Hook Form to handle form validation and submission.
 - Implementing advanced features: Learn how to implement advanced features such as pagination, sorting, and filtering in your React application.
 
-## Lesson 5: UI Design Principles
+## Lesson 5: UI Design Principles
 
 - Basic design principles and best practices: Learn about basic design principles such as typography, color theory, and layout. Learn about best practices for creating user-centered designs.
 - Creating wireframes and prototypes: Learn how to create wireframes and prototypes using tools like Adobe XD, Sketch or Figma. Understand the difference between wireframes and prototypes and when to use each.
